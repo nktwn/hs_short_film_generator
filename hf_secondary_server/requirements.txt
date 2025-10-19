@@ -1,0 +1,6 @@
+fastapi==0.115.2
+uvicorn==0.30.6
+httpx==0.27.2
+python-dotenv==1.0.1
+pydantic==2.12.3
+miniopy-async==1.23.4
